@@ -89,6 +89,9 @@ class PlattSMO:
         else:
             return 0
 
+        
+        
+        
     def smoP(self):
         iter = 0
         entrySet = True
